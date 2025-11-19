@@ -20,7 +20,7 @@ body{
     background-color: #ecfdf9;
 }
 
-button{
+a button{
     padding: 10%;
     border-radius: 20px;
     background-color: #5170FF;
@@ -37,6 +37,6 @@ button{
     margin-left: 10%;
 }
 
-#home{
+button #home{
     margin-left: 10%;
 }
