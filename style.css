@@ -5,46 +5,33 @@
     margin: 0;
     padding: 0;
 }
-header{
-    background-color: #5171ffab;
-    padding-bottom: 10px;
+
+header img{
+    width: 100%;
+    
+}
+body{
+    background-color: #ff977b;
+}
+
+#quem{
+    width: 35%;
+    margin-left: 2%;
+}
+
+#btns{
     display: flex;
     align-items: center;
 }
 
-header img{
-    width: 250px;
-    padding-top: 20px;
-    margin-left: 40px;
-}
-body{
-    background-color: #ecfdf9;
-}
 
-button{
+#home{
     padding: 15px 30px;
     border-radius: 20px;
-    background-color: #5170FF;
+    background-color: #ff0000;
     color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: 24px;
     border: none;
     transition: 0.3s;
-}
-
-#atv{
-    margin-left: 8%;
-}
-
-#cal{
-    margin-left: 10%;
-}
-
-#info{
-    margin-left: 10%;
-}
-
-#quem{
-    width: 40%;
-    margin-left: 20px;
 }

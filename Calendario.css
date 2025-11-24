@@ -5,41 +5,17 @@
     margin: 0;
     padding: 0;
 }
-header{
-    background-color: #5171ffab;
-    padding-bottom: 10px;
-    display: flex;
-    align-items: center;
-}
 
 header img{
-    width: 150px;
-    padding-top: 20px;
-    margin-left: 40px;
+    width: 100%;
+    
 }
 body{
-    background-color: #ecfdf9;
+    background-color: #ff977b;
 }
 
-button{
-    padding: 15px 30px;
-    border-radius: 20px;
-    background-color: #5170FF;
-    color: rgb(0, 0, 0);
-    cursor: pointer;
-    font-size: 24px;
-    border: none;
-    transition: 0.3s;
-}
-
-#atv{
-    margin-left: 8%;
-}
-
-#info{
-    margin-left: 10%;
-}
-
-#home{
-    margin-left: 10%;
+#calen{
+    width: 35%;
+    margin-left: 2%;
+    margin-top: 2%;
 }
