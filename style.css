@@ -22,16 +22,72 @@ body{
 #btns{
     display: flex;
     align-items: center;
+    ;
 }
 
 
 #home{
     padding: 15px 30px;
-    border-radius: 20px;
     background-color: #ff0000;
     color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: 24px;
     border: none;
     transition: 0.3s;
+    margin-left: 2%;
+}
+
+#atvCasa{
+    padding: 5px 10px;
+    background-color: #ff7f00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 10%;
+}
+
+#atvLivre{
+    padding: 5px 10px;
+    background-color: #ffff00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 11%;
+}
+
+#cal{
+    padding: 5px 10px;
+    background-color: #00ff00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 12%;
+}
+
+#info{
+    padding: 5px 10px;
+    background-color: #0000ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 30%;
+}
+
+#feed{
+    padding: 5px 10px;
+    background-color: #8b00ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 50%;
 }
