@@ -10,12 +10,109 @@ header img{
     width: 100%;
     
 }
+
+h3{
+    margin-left: 2%;
+}
+
+h4{
+    margin-left: 10%;
+}
+
 body{
     background-color: #ff977b;
 }
 
-#calen{
+#calendar{
     width: 35%;
     margin-left: 2%;
     margin-top: 2%;
+}
+
+#btns{
+    display: flex;
+    align-items: center;
+}
+
+#Conteudo{
+    display: flex;
+    align-items: center;
+}
+
+#C{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+#home{
+    padding: 15px 30px;
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 60px;
+}
+
+#atvCasa{
+    padding: 15px 30px;
+    background-color: #ff9900;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 60px;
+}
+
+#atvLivre{
+    padding: 15px 30px;
+    background-color: #fffb00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 60px;
+}
+
+#cal{
+    padding: 15px 30px;
+    background-color: #51ff00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 24px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 60px;
+}
+
+#info{
+    padding: 15px 30px;
+    background-color: #0066ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 60px;
+}
+
+#feed{
+    padding: 15px 30px;
+    background-color: #8400ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 60px;
+}
+
+footer{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-top: 3%;
 }

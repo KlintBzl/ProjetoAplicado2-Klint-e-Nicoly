@@ -5,55 +5,149 @@
     margin: 0;
     padding: 0;
 }
-header{
-    background-color: #5171ffab;
-    padding-bottom: 10px;
+
+header img{
+    width: 100%;
+    
+}
+body{
+    background-color: #ff977b;
+}
+
+h3{
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#casa{
+    width: 35%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+#btns{
     display: flex;
     align-items: center;
 }
 
-header img{
-    width: 150px;
-    padding-top: 20px;
-    margin-left: 40px;
-}
-body{
-    background-color: #ecfdf9;
+#Conteudo{
+    display: flex;
+    align-items: center;
 }
 
-button{
+#sobre{
+ margin-top: 4%;
+}
+
+#home{
     padding: 15px 30px;
-    border-radius: 20px;
-    background-color: #5170FF;
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 50px;
+}
+
+#atvCasa{
+    padding: 15px 30px;
+    background-color: #ff9900;
     color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: 24px;
     border: none;
     transition: 0.3s;
+    margin-left: 50px;
 }
 
-ul{
-    margin-left: 300px;
+#atvLivre{
+    padding: 15px 30px;
+    background-color: #fffb00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 50px;
 }
 
 #cal{
-    margin-left: 10%;
+    padding: 15px 30px;
+    background-color: #51ff00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 50px;
 }
 
 #info{
-    margin-left: 10%;
+    padding: 15px 30px;
+    background-color: #0066ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 50px;
 }
 
-#home{
-    margin-left: 8%;
+#feed{
+    padding: 15px 30px;
+    background-color: #8400ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 14px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 50px;
 }
 
-#casa{
-    margin-top: 10px;
-    margin-left: 10px;
-    width: 400px;
+footer{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-top: 3%;
 }
 
-#livre{
-    width: 450px;
+#ex1{
+    color: #e80000;
+}
+#cineminha{
+    width: 45%;
+    margin: 3%;
+    margin-left: 27%;
+}
+#ex2{
+    color: #15cf43;
+}
+#jogo{
+    width: 45%;
+    margin: 3%;
+    margin-left: 27%;
+}
+#ex3{
+    color: #8802cf;
+}
+#cozinha{
+    width: 40%;
+    margin: 3%;
+    margin-left: 30%;
+}
+#ex4{
+    color: #5170ff;
+}
+#oficina{
+    width: 40%;
+    margin: 3%;
+    margin-left: 30%;
+}
+#ex5{
+    color: #8802cf;
 }
