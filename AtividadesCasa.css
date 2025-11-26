@@ -1,5 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playpen+Sans:wght@100..800&family=Science+Gothic:wght@100..900&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 *{
     margin: 0;
@@ -49,10 +49,13 @@ p{
     background-color: #ff0000;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 14px;
+    font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 50px;
+    margin-left: 60px;
+    rotate: 10deg;
+    font-family: Pacifico;
+    border-radius: 2px;
 }
 
 #atvCasa{
@@ -60,10 +63,13 @@ p{
     background-color: #ff9900;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 24px;
+    font-size: 20px;
     border: none;
     transition: 0.3s;
-    margin-left: 50px;
+    margin-left: 60px;
+    rotate: -10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #atvLivre{
@@ -71,10 +77,13 @@ p{
     background-color: #fffb00;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 14px;
+    font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 50px;
+    margin-left: 60px;
+    rotate: 10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #cal{
@@ -82,10 +91,13 @@ p{
     background-color: #51ff00;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 14px;
+    font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 50px;
+    margin-left: 60px;
+    rotate: -10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #info{
@@ -93,10 +105,13 @@ p{
     background-color: #0066ff;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 14px;
+    font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 50px;
+    margin-left: 60px;
+    rotate: 10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #feed{
@@ -104,10 +119,22 @@ p{
     background-color: #8400ff;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 14px;
+    font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 50px;
+    margin-left: 60px;
+    rotate: -10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
+}
+
+#home:hover, #atvLivre:hover, #cal:hover, #info:hover, #feed:hover {
+    rotate: 0deg;
+    font-family: Playpen Sans;
+}
+
+#atvCasa:hover {
+    rotate: 0deg;
 }
 
 footer{
@@ -151,3 +178,4 @@ footer{
 #ex5{
     color: #8802cf;
 }
+
