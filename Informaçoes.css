@@ -20,7 +20,7 @@ h3{
     margin-left: 20px;
 }
 
-#quem{
+#criadores{
     width: 15%;
     margin-left: 2%;
     margin-top: 2%;
@@ -31,9 +31,16 @@ h3{
     align-items: center;
 }
 
-#Conteudo{
-    display: flex;
-    align-items: center;
+#Conteudo {
+    margin-top: 2%;
+    text-align: center;
+    font-size: 30px;
+}
+
+#ajuda{
+    width: 60%;
+    margin-top: 1%;
+    margin-bottom: 5%;
 }
 
 #sobre{

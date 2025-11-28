@@ -33,7 +33,7 @@ body{
 
 #sobre{
  margin-top: 3%;
- 
+
  margin-right: 25px;
  font-size: 22px;
  text-align: right;
@@ -50,6 +50,7 @@ body{
     margin-left: 60px;
     rotate: -10deg;
     font-family: Pacifico;
+    border-radius: 2px;
 }
 
 #atvCasa{
@@ -63,6 +64,7 @@ body{
     margin-left: 60px;
     rotate: 10deg;
        font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #atvLivre{
@@ -76,6 +78,7 @@ body{
     margin-left: 60px;
     rotate: -10deg;
        font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #cal{
@@ -89,6 +92,7 @@ body{
     margin-left: 60px;
     rotate: 10deg;
        font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #info{
@@ -102,6 +106,7 @@ body{
     margin-left: 60px;
     rotate: -10deg;
        font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #feed{
@@ -115,6 +120,7 @@ body{
     margin-left: 60px;
     rotate: 10deg;
        font-family: Pacifico;
+       border-radius: 2px;
 }
 
 #atvCasa:hover, #atvLivre:hover, #cal:hover, #info:hover, #feed:hover {
