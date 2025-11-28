@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playpen+Sans:wght@100..800&family=Science+Gothic:wght@100..900&display=swap');
 
 
-
 *{
     margin: 0;
     padding: 0;
@@ -10,14 +9,15 @@
 header img{
     width: 100%;
     
-    
 }
 body{
     background-color: #ff977b;
 }
 
 h3{
-    margin-left: 20px;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 30px;
 }
 
 #quem{
@@ -29,12 +29,14 @@ h3{
 #btns{
     display: flex;
     align-items: center;
+    
 }
 
 #Conteudo{
     display: flex;
     align-items: center;
 }
+
 
 #sobre{
  margin-top: 4%;
@@ -49,7 +51,7 @@ h3{
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: -10deg;
+    rotate: 10deg;
     font-family: Pacifico;
     border-radius: 2px;
 }
@@ -63,7 +65,7 @@ h3{
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: 10deg;
+    rotate: -10deg;
        font-family: Pacifico;
        border-radius: 2px;
 }
@@ -77,7 +79,7 @@ h3{
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: -10deg;
+    rotate: 10deg;
        font-family: Pacifico;
        border-radius: 2px;
 }
@@ -91,7 +93,7 @@ h3{
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: 10deg;
+    rotate: -10deg;
        font-family: Pacifico;
        border-radius: 2px;
 }
@@ -99,6 +101,20 @@ h3{
 #info{
     padding: 15px 30px;
     background-color: #0066ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 15px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 60px;
+    rotate: 10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
+}
+
+#feed{
+    padding: 15px 30px;
+    background-color: #8400ff;
     color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: 20px;
@@ -110,30 +126,12 @@ h3{
        border-radius: 2px;
 }
 
-#feed{
-    padding: 15px 30px;
-    background-color: #8400ff;
-    color: rgb(0, 0, 0);
-    cursor: pointer;
-    font-size: 15px;
-    border: none;
-    transition: 0.3s;
-    margin-left: 60px;
-    rotate: 10deg;
-       font-family: Pacifico;
-    border-radius: 2px;
-}
-
-#home:hover, #atvCasa:hover, #cal:hover, #atvLivre:hover, #feed:hover {
+#home:hover, #atvLivre:hover, #atvCasa:hover, #info:hover, #cal:hover {
     rotate: 0deg;
     font-family: Playpen Sans;
 }
 
-#info:hover {
+#feed:hover {
     rotate: 0deg;
-}
-
-footer{
-    background-color: antiquewhite;
-    padding: 10px;
+    font-family: Playpen Sans;
 }

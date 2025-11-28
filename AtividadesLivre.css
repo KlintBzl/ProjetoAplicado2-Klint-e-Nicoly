@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playpen+Sans:wght@100..800&family=Science+Gothic:wght@100..900&display=swap');
 
-
-
 *{
     margin: 0;
     padding: 0;
@@ -9,7 +7,6 @@
 
 header img{
     width: 100%;
-    
     
 }
 body{
@@ -20,8 +17,14 @@ h3{
     margin-left: 20px;
 }
 
-#quem{
-    width: 15%;
+p{
+    margin-left: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#livre{
+    width: 40%;
     margin-left: 2%;
     margin-top: 2%;
 }
@@ -52,6 +55,7 @@ h3{
     rotate: -10deg;
     font-family: Pacifico;
     border-radius: 2px;
+    
 }
 
 #atvCasa{
@@ -73,7 +77,7 @@ h3{
     background-color: #fffb00;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 15px;
+    font-size: 20px;
     border: none;
     transition: 0.3s;
     margin-left: 60px;
@@ -101,7 +105,7 @@ h3{
     background-color: #0066ff;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 20px;
+    font-size: 15px;
     border: none;
     transition: 0.3s;
     margin-left: 60px;
@@ -121,19 +125,56 @@ h3{
     margin-left: 60px;
     rotate: 10deg;
        font-family: Pacifico;
-    border-radius: 2px;
+       border-radius: 2px;
 }
 
-#home:hover, #atvCasa:hover, #cal:hover, #atvLivre:hover, #feed:hover {
+#home:hover, #atvCasa:hover, #cal:hover, #info:hover, #feed:hover {
     rotate: 0deg;
     font-family: Playpen Sans;
 }
 
-#info:hover {
+#atvLivre:hover {
     rotate: 0deg;
 }
 
 footer{
     background-color: antiquewhite;
     padding: 10px;
+    margin-top: 3%;
+}
+
+#ex1{
+    color: #ff6300;
+}
+#copo{
+    width: 45%;
+    margin: 3%;
+    margin-left: 27%;
+}
+#ex2{
+    color: #e80000;
+}
+#piknik{
+    width: 45%;
+    margin: 3%;
+    margin-left: 27%;
+}
+#ex3{
+    color: #15cf43;
+}
+#giz{
+    width: 40%;
+    margin: 3%;
+    margin-left: 30%;
+}
+#ex4{
+    color: #8802cf;
+}
+#agua{
+    width: 40%;
+    margin: 3%;
+    margin-left: 30%;
+}
+#ex5{
+    color: #5170ff;
 }
