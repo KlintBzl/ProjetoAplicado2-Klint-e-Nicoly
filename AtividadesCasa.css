@@ -177,6 +177,23 @@ footer{
     margin-left: 30%;
 }
 #ex5{
-    color: #8802cf;
+    color: #ffd902;
 }
 
+#leitura{
+    width: 40%;
+    margin: 3%;
+    margin-left: 30%;
+
+}
+
+#tesouro{
+    width: 40%;
+    margin: 3%;
+    margin-left: 30%;
+
+}
+
+#ex6{
+    color: #fc7100;
+}
