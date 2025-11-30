@@ -141,6 +141,21 @@ h3{
 }
 
 footer{
-    background-color: antiquewhite;
+    background-color: rgb(243, 214, 175);
     padding: 10px;
+    margin-top: 10px;
+
+}
+
+#foter{
+    display: flex;
+    align-items: center;
+}
+
+#insta{
+width: 5%;
+}
+
+#whatts{
+width: 5.5%;
 }
