@@ -24,6 +24,12 @@ p{
     text-align: center;
 }
 
+div p{
+    text-align: left;
+    margin-left: 0%;
+    font-size: 17px;
+}
+
 #casa{
     width: 35%;
     margin-left: 2%;
