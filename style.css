@@ -26,6 +26,14 @@ footer{
     align-items: center;
 }
 
+#insta{
+width: 5%;
+}
+
+#whatts{
+width: 5.5%;
+}
+
 #quem{
     width: 30%;
     margin-left: 2%;
@@ -144,12 +152,3 @@ footer{
 }
 
 
-#insta{
-width: 5%;
-
-}
-
-#whatts{
-width: 5.5%;
-
-}
