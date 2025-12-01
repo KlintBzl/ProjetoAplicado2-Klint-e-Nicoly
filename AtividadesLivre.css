@@ -57,7 +57,7 @@ div p{
     font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 60px;
+    margin-left: 50px;
     rotate: -10deg;
     font-family: Pacifico;
     border-radius: 2px;
@@ -72,7 +72,7 @@ div p{
     font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 60px;
+    margin-left: 50px;
     rotate: 10deg;
        font-family: Pacifico;
        border-radius: 2px;
@@ -86,7 +86,7 @@ div p{
     font-size: 20px;
     border: none;
     transition: 0.3s;
-    margin-left: 60px;
+    margin-left: 50px;
     rotate: -10deg;
        font-family: Pacifico;
        border-radius: 2px;
@@ -100,7 +100,7 @@ div p{
     font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 60px;
+    margin-left: 50px;
     rotate: 10deg;
        font-family: Pacifico;
        border-radius: 2px;
@@ -114,7 +114,7 @@ div p{
     font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 60px;
+    margin-left: 50px;
     rotate: -10deg;
        font-family: Pacifico;
        border-radius: 2px;
@@ -128,7 +128,7 @@ div p{
     font-size: 15px;
     border: none;
     transition: 0.3s;
-    margin-left: 60px;
+    margin-left: 50px;
     rotate: 10deg;
        font-family: Pacifico;
        border-radius: 2px;
@@ -341,10 +341,10 @@ footer{
 }
 
 #insta{
-width: 15%;
+width: 13%;
 }
 
 #whatts{
-width: 17.5%;
+width: 15.5%;
 }
 }
