@@ -207,9 +207,9 @@ width: 5.5%;
     color: #fffb00;
 }
 #bingo{
-    width: 40%;
+    width: 50%;
     margin: 3%;
-    margin-left: 30%;
+    margin-left: 25%;
 }
 
 #trilha{
@@ -325,4 +325,12 @@ width: 5.5%;
        font-family: Pacifico;
        border-radius: 2px;
 }
-  }
+
+p{
+    margin-left: 10px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+}
