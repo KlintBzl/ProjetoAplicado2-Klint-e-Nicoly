@@ -333,4 +333,18 @@ p{
     margin-right: 10px;
 }
 
+footer{
+    background-color: rgb(243, 214, 175);
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+#insta{
+width: 10%;
+}
+
+#whatts{
+width: 10.5%;
+}
 }
