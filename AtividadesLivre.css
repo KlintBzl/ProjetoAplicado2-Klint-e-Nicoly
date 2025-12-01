@@ -333,6 +333,17 @@ p{
     margin-right: 10px;
 }
 
+footer a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+
+footer a h2{
+    margin-top: 1.5%;
+    
+}
+
 footer{
     background-color: rgb(243, 214, 175);
     padding: 10px;
