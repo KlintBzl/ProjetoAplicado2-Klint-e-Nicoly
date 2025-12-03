@@ -22,7 +22,7 @@ h4{
 }
 
 body{
-    background-image: url(/assets/imagens/fundoClaro.png);
+    background-image: url(../../assets/imagens/fundoClaro.png);
 }
 
 #calendar{
