@@ -10,7 +10,7 @@ header img{
     
 }
 body{
-    background-image: url(./assets/imagens/fundoClaro.png);
+    background-image: url(/assets/imagens/fundoClaro.png);
 }
 
 h3{
@@ -143,10 +143,21 @@ div p{
     rotate: 0deg;
 }
 
+footer a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+}
+
+footer a h2{
+    margin-top: 1.5%;
+    
+}
+
 footer{
     background-color: rgb(243, 214, 175);
     padding: 10px;
-    margin-top: 10px;
+    margin-top: 15px;
 
 }
 
@@ -335,13 +346,13 @@ p{
 
 footer a{
     display: flex;
-    text-decoration: none;
-    color: black;
+    
 }
 
 footer a h2{
     margin-top: 1.5%;
-    
+    text-decoration: none;
+    color: black;
 }
 
 footer{

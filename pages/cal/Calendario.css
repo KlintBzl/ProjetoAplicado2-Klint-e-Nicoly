@@ -2,6 +2,7 @@
 
 
 
+
 *{
     margin: 0;
     padding: 0;
@@ -10,18 +11,22 @@
 header img{
     width: 100%;
     
-    
-}
-body{
-    background-image: url(./assets/imagens/fundoClaro.png);
 }
 
 h3{
-    margin-left: 20px;
+    margin-left: 2%;
 }
 
-#criadores{
-    width: 25%;
+h4{
+    margin-left: 10%;
+}
+
+body{
+    background-image: url(/assets/imagens/fundoClaro.png);
+}
+
+#calendar{
+    width: 35%;
     margin-left: 2%;
     margin-top: 2%;
 }
@@ -31,20 +36,16 @@ h3{
     align-items: center;
 }
 
-#Conteudo {
+#Conteudo{
+    display: flex;
+    align-items: center;
+}
+
+
+#C{
+    width: 80%;
+    margin-left: 10%;
     margin-top: 2%;
-    text-align: center;
-    font-size: 30px;
-}
-
-#ajuda{
-    width: 60%;
-    margin-top: 1%;
-    margin-bottom: 5%;
-}
-
-#sobre{
- margin-top: 4%;
 }
 
 #home{
@@ -56,7 +57,7 @@ h3{
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: -10deg;
+    rotate: 10deg;
     font-family: Pacifico;
     border-radius: 2px;
 }
@@ -70,7 +71,7 @@ h3{
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: 10deg;
+    rotate: -10deg;
        font-family: Pacifico;
        border-radius: 2px;
 }
@@ -84,7 +85,7 @@ h3{
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: -10deg;
+    rotate: 10deg;
        font-family: Pacifico;
        border-radius: 2px;
 }
@@ -94,11 +95,11 @@ h3{
     background-color: #51ff00;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 20px;
+    font-size: 25px;
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: 10deg;
+    rotate: -10deg;
        font-family: Pacifico;
        border-radius: 2px;
 }
@@ -108,11 +109,11 @@ h3{
     background-color: #0066ff;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 25px;
+    font-size: 20px;
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: -10deg;
+    rotate: 10deg;
        font-family: Pacifico;
        border-radius: 2px;
 }
@@ -126,17 +127,17 @@ h3{
     border: none;
     transition: 0.3s;
     margin-left: 60px;
-    rotate: 10deg;
+    rotate: -10deg;
        font-family: Pacifico;
-    border-radius: 2px;
+       border-radius: 2px;
 }
 
-#home:hover, #atvCasa:hover, #cal:hover, #atvLivre:hover, #feed:hover {
+#home:hover, #atvLivre:hover, #atvCasa:hover, #info:hover, #feed:hover {
     rotate: 0deg;
     font-family: Playpen Sans;
 }
 
-#info:hover {
+acl:hover {
     rotate: 0deg;
 }
 
