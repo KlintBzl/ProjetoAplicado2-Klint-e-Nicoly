@@ -1,7 +1,7 @@
 # MiniMakers
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social)
+![GitHub Repo stars](https://img.shields.io/github.com/KlintBzl/ProjetoAplicado2-Klint-e-Nicoly?style=social)
 
 Como conectar as famílias com atividades simples e que estimulam a criatividade dos pequenos
 
@@ -133,60 +133,33 @@ Para personalizar cores, fontes e estilos:
 }
 ```
 
-### Configurando o Formulário de Contato
-
-```javascript
-// Edite o arquivo scripts/form.js para configurar o envio
-const formConfig = {
-  emailDestino: 'seu-email@example.com',
-  mensagemSucesso: 'Mensagem enviada com sucesso!'
-};
-```
-
 ## 📁 Estrutura de Pastas
 
 ```
-seu-projeto/
+ProjetoAplicado2-Klint-e-Nicoly/
 │
 ├── index.html                 # Página principal
 ├── README.md                  # Documentação do projeto
 ├── LICENSE                    # Licença do projeto
 │
 ├── assets/                    # Recursos estáticos
-│   ├── images/               # Imagens e ícones
+│   ├── imagens/               # Imagens e ícones
 │   │   ├── logo.png
 │   │   ├── screenshot.png
 │   │   └── ...
-│   ├── videos/               # Vídeos (se houver)
-│   └── documents/            # Documentos (se houver)
+│   ├── videos/               # Vídeos
+│   ├── Músicas/              # Músicas
 │
 ├── styles/                    # Arquivos CSS
 │   ├── style.css             # Estilos principais
 │   ├── responsive.css        # Media queries
 │   └── animations.css        # Animações
 │
-├── scripts/                   # Arquivos JavaScript
-│   ├── main.js               # Script principal
-│   ├── form.js               # Lógica do formulário
-│   └── utils.js              # Funções utilitárias
-│
 └── pages/                     # Páginas HTML adicionais
     ├── sobre.html
     ├── contato.html
     └── portfolio.html
 ```
-
-## 🗺️ Roadmap
-
-- [x] Estrutura HTML básica
-- [x] Estilização CSS responsiva
-- [x] Implementação de JavaScript
-- [ ] Otimização de performance
-- [ ] Testes cross-browser
-- [ ] Adicionar modo escuro
-- [ ] Implementar animações avançadas
-- [ ] Integrar com API externa
-- [ ] Adicionar PWA (Progressive Web App)
 
 ## 🤝 Contribuindo
 
@@ -200,7 +173,7 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 
 ### Código de Conduta
 
-Este projeto adota um código de conduta para garantir um ambiente acolhedor. Por favor, seja respeitoso e construtivo em todas as interações.
+Este projeto adota um código de conduta para garantir um ambiente acolhedor. Por favor, seja respeitoso e construtivo em todas as interações. Desde já agradeçemos.
 
 ## 📄 Licença
 
@@ -208,21 +181,19 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✉️ Contato
 
-**Klint Burzlaff Berta Lemes** - [@seu-twitter](https://twitter.com/seu-twitter) - seu-email@example.com
+**Klint Burzlaff Berta Lemes** - [Instagram](https://www.instagram.com/klint.bzl) - klintscouts@gmail.com
 
-Link do Projeto: [https://github.com/seu-usuario/seu-projeto](https://github.com/seu-usuario/seu-projeto)
+Link do Projeto: [https://github.com/KlintBzl/ProjetoAplicado2-Klint-e-Nicoly](https://github.com/KlintBzl/ProjetoAplicado2-Klint-e-Nicoly)
 
-Link do Portfolio: [https://seu-portfolio.com](https://seu-portfolio.com)
+Link do Portfolio: [https://github.com/KlintBzl/Portifolio](https://github.com/KlintBzl/Portifolio)
 
 ## 🎓 Agradecimentos
 
 * [Jeferson Leon | ] - Instrução e orientação
 * [Nome da Instituição] - Suporte educacional
-* [Font Awesome](https://fontawesome.com) - Ícones utilizados
+* [Google Fonts](https://fonts.google.com/) - Ícones utilizados
 * [Unsplash](https://unsplash.com) - Imagens gratuitas
-* [Stack Overflow](https://stackoverflow.com) - Comunidade de desenvolvedores
-* Colegas de turma que contribuíram com feedback
 
 ---
 
-⌨️ com ❤️ por [Seu Nome](https://github.com/seu-usuario) 🚀
+⌨️ com ❤️ por [Klint](https://github.com/KlintBzl) e [Nicoly](https://github.com/NicolyMarquesLemes) 🚀
