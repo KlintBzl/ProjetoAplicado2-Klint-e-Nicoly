@@ -135,3 +135,96 @@ h3{
     rotate: 0deg;
     font-family: Playpen Sans;
 }
+
+@media (max-width: 412px){
+
+header img{
+    width: 100%;
+}
+
+    #home{
+    padding: 5px 10px;
+    background-color: #ff0000;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 5px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 16px;
+    rotate: 10deg;
+    font-family: Pacifico;
+    border-radius: 2px;
+    
+}
+
+#atvCasa{
+    padding: 5px 10px;
+    background-color: #ff9900;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 5px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 16px;
+    rotate: -10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
+}
+
+#atvLivre{
+    padding: 5px 10px;
+    background-color: #fffb00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 7px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 16px;
+    rotate: 10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
+}
+
+#cal{
+    padding: 5px 10px;
+    background-color: #51ff00;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 5px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 16px;
+    rotate: -10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
+}
+
+#info{
+    padding: 5px 10px;
+    background-color: #0066ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 5px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 16px;
+    rotate: 10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
+}
+
+#feed{
+    padding: 5px 10px;
+    background-color: #8400ff;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 5px;
+    border: none;
+    transition: 0.3s;
+    margin-left: 16px;
+    rotate: -10deg;
+       font-family: Pacifico;
+       border-radius: 2px;
+}
+
+}
