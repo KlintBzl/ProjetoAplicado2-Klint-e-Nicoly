@@ -212,7 +212,7 @@ header img{
     background-color: #fffb00;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 7px;
+    font-size: 5px;
     border: none;
     transition: 0.3s;
     margin-left: 16px;
@@ -226,7 +226,7 @@ header img{
     background-color: #51ff00;
     color: rgb(0, 0, 0);
     cursor: pointer;
-    font-size: 5px;
+    font-size: 7px;
     border: none;
     transition: 0.3s;
     margin-left: 16px;
