@@ -227,4 +227,8 @@ header img{
        border-radius: 2px;
 }
 
+body{
+    background-size: 150%;
+}
+
 }

@@ -12,6 +12,7 @@ header img{
 }
 body{
     background-image: url(../../assets/imagens/fundoClaro.png);
+    
 }
 
 h3{
@@ -426,4 +427,9 @@ width: 13%;
 #whatts{
 width: 15.5%;
 }
+
+body{
+    background-size: 150%;
+}
+
 }

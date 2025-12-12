@@ -292,4 +292,9 @@ width: 13%;
 #whatts{
 width: 15.5%;
 }
+
+body{
+    background-size: 150%;
+}
+
 }

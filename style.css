@@ -263,11 +263,12 @@ header img{
 }
 
 h3{
-    font-size: 15px;
+    font-size: 20px;
 }
 
 #sobre{
- font-size: 10px;
+ font-size: 20px;
+ text-align: justify;
 }
 
 footer a{
@@ -284,7 +285,7 @@ footer a h2{
 footer{
     background-color: rgb(243, 214, 175);
     padding: 10px;
-    margin-top: 54%;
+    margin-top: 6%;
 
 }
 
@@ -295,4 +296,20 @@ width: 13%;
 #whatts{
 width: 15.5%;
 }
+
+body{
+    background-size: 150%;
+}
+
+#quem{
+    width: 70%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+#Conteudo{
+    display: block;
+    align-items: center;
+}
+
 }
