@@ -5,55 +5,22 @@
 
 Como conectar as famílias com atividades simples e que estimulam a criatividade dos pequenos
 
-![Screenshot do Projeto](./assets/images/screenshot.png)
-
-## 📋 Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Demonstração](#demonstração)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Como Usar](#como-usar)
-- [Estrutura de Pastas](#estrutura-de-pastas)
-- [Roadmap](#roadmap)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
-- [Agradecimentos](#agradecimentos)
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/28e379af-0604-4d07-83c1-9fbb74bd6a77" />
 
 ## 🎯 Sobre o Projeto
 
-Descreva seu projeto de forma mais detalhada aqui. Explique:
-- O contexto e motivação para criar o projeto
-- Quais problemas ele resolve
-- O que torna seu projeto único ou interessante
-- Público-alvo
+- Muitas crianças são expostas à tecnologia muito cedo, e isso acaba causando problemas como a fome por serotonina fácil e a sensação de prazer e recompensa a preço de banana, e nós percebemos isso e queremos mudar essa situação.
+- O site propõe aos pais ou cuidadores, um local seguro e de fácil acesso, que lhes da informações e propostas de atividades para realizar com os pequenos.
+- Antigamente, haviam sites onde as crianças podiam jogar jogos simples e que eram divertidos, por exemplo o FRIV ou Kizi, mas hoje em dia, eles, ou acabaram ou não estão do mesmo jeito, a MiniMakers procura reestabelecer a conexão dos pais com os filhos atravéz dessas atividades.
+- O site tem um visual básico e fácil de se entender, justamente para se adaptar para os pais ou cuidadores que muitas vezes não conseguem entender linguagens ou botões muito difíceis.
 
 ### Por que este projeto foi criado?
 
-Este projeto foi desenvolvido como parte do curso [Nome do Curso] com o objetivo de aplicar conhecimentos práticos em desenvolvimento web front-end, criando uma aplicação completa e funcional.
+Este projeto foi desenvolvido como parte do curso de Técnico em Informática, famoso TI com o objetivo de aplicar conhecimentos práticos em desenvolvimento web front-end, criando uma aplicação completa e funcional.
 
 ## 🎬 Demonstração
 
-Acesse a versão ao vivo do projeto: [https://seu-usuario.github.io/seu-projeto](https://seu-usuario.github.io/seu-projeto)
-
-Ou assista ao vídeo de demonstração:
-
-![Demo GIF](./assets/images/demo.gif)
-
-## ⚙️ Funcionalidades
-
-- ✅ Funcionalidade 1 - Descrição breve
-- ✅ Funcionalidade 2 - Descrição breve
-- ✅ Funcionalidade 3 - Descrição breve
-- ✅ Design responsivo para mobile, tablet e desktop
-- ✅ Animações suaves e interativas
-- ✅ Formulário de contato funcional
-- ✅ Navegação intuitiva
-- 🔄 Funcionalidade futura 1 (em desenvolvimento)
-- 🔄 Funcionalidade futura 2 (em desenvolvimento)
+Acesse a versão ao vivo do projeto: [[https://klintbzl.github.io/ProjetoAplicado2-Klint-e-Nicoly/index.html](https://klintbzl.github.io/ProjetoAplicado2-Klint-e-Nicoly/index.html)]
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -183,9 +150,12 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Klint Burzlaff Berta Lemes** - [Instagram](https://www.instagram.com/klint.bzl) - klintscouts@gmail.com
 
+Link do Portfolio: [https://github.com/KlintBzl/Portifolio](https://github.com/KlintBzl/Portifolio)
+
+**Nicoly Marques Lemes** - [Instagram](https://www.instagram.com/nihtxz__) - n320992@gmail.com
+
 Link do Projeto: [https://github.com/KlintBzl/ProjetoAplicado2-Klint-e-Nicoly](https://github.com/KlintBzl/ProjetoAplicado2-Klint-e-Nicoly)
 
-Link do Portfolio: [https://github.com/KlintBzl/Portifolio](https://github.com/KlintBzl/Portifolio)
 
 ## 🎓 Agradecimentos
 
