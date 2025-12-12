@@ -156,6 +156,8 @@ Link do Portfolio: [https://github.com/KlintBzl/Portifolio](https://github.com/K
 
 Link do Projeto: [https://github.com/KlintBzl/ProjetoAplicado2-Klint-e-Nicoly](https://github.com/KlintBzl/ProjetoAplicado2-Klint-e-Nicoly)
 
+Instagram do projeto: [Instagram](https://www.instagram.com/minimakers_brasil)
+
 
 ## 🎓 Agradecimentos
 
