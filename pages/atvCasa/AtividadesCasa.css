@@ -249,14 +249,14 @@ width: 5.5%;
 #reciclavel{
     width: 40%;
     margin: 3%;
-    margin-left: 30%;
+    margin-left: 25%;
 
 }
 
 #album{
     width: 40%;
     margin: 3%;
-    margin-left: 30%;
+    margin-left: 25%;
 
 }
 
@@ -286,4 +286,14 @@ width: 5.5%;
 
 #ex11{
     color: #ffd902;
+}
+
+#alubum{
+    width: 30%;
+    margin-bottom: 2%;
+}
+
+#reciliclavel{
+    width: 20%;
+    margin-bottom: 2%;
 }
